@@ -1,0 +1,22 @@
+{
+  "name": "piwall-clock",
+  "version": "1.0.0",
+  "description": "Display Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codescribe9/piwall-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codescribe9/piwall-clock/issues"
+  },
+  "homepage": "https://github.com/codescribe9/piwall-clock#readme",
+  "dependencies": {
+    "express": "^4.16.2"    
+  }
+}
